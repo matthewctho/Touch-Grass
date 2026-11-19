@@ -5,13 +5,8 @@ Built in two days at **SYNCS Hack 2026** (August 2026).
 
 Users join themed *challenge packs*, complete real-world tasks (photo challenges, meeting new people), earn points, and redeem them for rewards. Photo submissions are checked automatically by Google's Gemini vision model. Social tasks need a mutual QR handshake, so nobody can earn points from another person without that person's consent.
 
-<!-- Add screenshots: save them in docs/screenshots/ and uncomment
-<p align="center">
-  <img src="docs/screenshots/home.png" width="230">
-  <img src="docs/screenshots/tasks.png" width="230">
-  <img src="docs/screenshots/connect.png" width="230">
-</p>
--->
+More details: https://devpost.com/software/touchgrass-w468pb
+
 
 ## Features
 
